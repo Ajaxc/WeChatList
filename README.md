@@ -214,4 +214,8 @@
 文章批量下载
 
 加入频道: https://t.me/wechatexportlist
+
+<img width="327" height="423" alt="image" src="https://github.com/user-attachments/assets/d2d6b057-5079-437c-ae32-beb382410c5e" />
+
+
 > 好内容值得被长期保存，而不是被平台机制左右。
