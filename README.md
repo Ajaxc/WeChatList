@@ -213,6 +213,9 @@
 公众号批量下载
 文章批量下载
 
+<img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/3d717125-3662-42c6-bf58-19f99adbb73d" />
+
+
 加入频道: https://t.me/wechatexportlist
 
 <img width="327" height="423" alt="image" src="https://github.com/user-attachments/assets/d2d6b057-5079-437c-ae32-beb382410c5e" />
