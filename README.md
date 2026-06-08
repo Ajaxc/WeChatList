@@ -193,9 +193,11 @@
 
 
 软件下载地址：[https://mp.weixin.qq.com/s/WtVJFaOAz9ivAJitkGw_dw](https://mp.weixin.qq.com/s/WtVJFaOAz9ivAJitkGw_dw)
+蓝奏云:[https://wwbfc.lanzoue.com/b019vnuo1g](https://wwbfc.lanzoue.com/b019vnuo1g) 密码:3oqq
+ 
+扫码关注公众号:Yi昭
 
-关注公众号:Yi昭
-
+<img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/3d717125-3662-42c6-bf58-19f99adbb73d" />
 
 后续更新可在号内回复“软件”获取最新版本下载地址。
 
@@ -212,13 +214,5 @@
 文章批量导出
 公众号批量下载
 文章批量下载
-
-<img width="430" height="430" alt="image" src="https://github.com/user-attachments/assets/3d717125-3662-42c6-bf58-19f99adbb73d" />
-
-
-加入频道: https://t.me/wechatexportlist
-
-<img width="327" height="423" alt="image" src="https://github.com/user-attachments/assets/d2d6b057-5079-437c-ae32-beb382410c5e" />
-
 
 > 好内容值得被长期保存，而不是被平台机制左右。
