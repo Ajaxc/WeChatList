@@ -4,7 +4,9 @@
 
 ##
 
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/NOQ15qESMM28jSI4dpZcyDX2fAPmx8Kvc4UnTsngibO6GSKtdUXdYpnpyPxaOmiby2TDricqAAfnxRRH9uibU3Psqg/640?wx_fmt=png&amp;from=appmsg)
+<img width="440" height="300" alt="0" src="https://github.com/user-attachments/assets/38fa23a2-f2c1-4a07-9dda-b6c79e939047" />
+
+<img width="1920" height="1033" alt="1" src="https://github.com/user-attachments/assets/d835b8d5-9071-4d5a-aa82-81a081054484" />
 
 
 ## 
@@ -44,7 +46,8 @@
 
 废话不多说，下面正式介绍这款**微信公众号文章导出助手**。
 
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/NOQ15qESMM0AWaMic7jW2ScCjWSupKiaedQuWWB0rWa4BKOficAjaZooQVWP8YJianLlxdSbIhicx0wITLZutrbWW9g/640?wx_fmt=png&amp;from=appmsg)
+<img width="1920" height="1033" alt="5" src="https://github.com/user-attachments/assets/8a4b40cf-fe32-48a2-b883-7331d731fff9" />
+
 
 
 
@@ -54,9 +57,11 @@
 - **PDF**
 - **Word**
 - **Excel**
-- **图片**
+- **Image**
 - **HTML**
+- **MHTML**
 - **Markdown**
+- **Text**
 
 
 
@@ -93,7 +98,8 @@
 - 可单独下载文章中的**图片或音频**
 - 非常适合小说音频、摄影账号、素材收集等场景
 
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/NOQ15qESMM28jSI4dpZcyDX2fAPmx8KvpFY7howqFsicp3LlQ9Jq8nls3BZyxx6GpavxjqUca7W3YVjEaVCFlkg/640?wx_fmt=png&amp;from=appmsg)
+<img width="1920" height="1032" alt="6" src="https://github.com/user-attachments/assets/0e2ff128-67fe-4703-bf54-de3ac065e190" />
+
 
 
 * * *
@@ -117,7 +123,9 @@
 - JPG 图片
 - Excel
 - HTML
+- MHTML
 - Markdown
+- Text
 
 
 
@@ -145,7 +153,7 @@
 - 支持自定义文件名
 - 可自由设置保存路径
 
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/NOQ15qESMM0oSMkIHAJwBmfVj7PfWnfCtrq7HibrJctDKoPYmYvQP04X3j6UJiaF4egiant7NlDly6oK61Zc51W0A/640?wx_fmt=png&amp;from=appmsg)
+<img width="1920" height="1033" alt="7" src="https://github.com/user-attachments/assets/df0f1208-e26e-4628-8d8e-85f48d27a2f0" />
 
 
 * * *
@@ -194,7 +202,7 @@
 
 软件下载地址：[https://mp.weixin.qq.com/s/WtVJFaOAz9ivAJitkGw_dw](https://mp.weixin.qq.com/s/WtVJFaOAz9ivAJitkGw_dw)
 
-蓝奏云:[https://wwbfc.lanzoue.com/b019vnuo1g](https://wwbfc.lanzoue.com/b019vnuo1g) 密码:3oqq
+蓝奏云:[https://wwbfc.lanzoue.com/b019vnuo1g](https://wwbfc.lanzoue.com/b019vy4p0b) 密码:66888
  
 扫码关注公众号:Yi昭
 
@@ -202,8 +210,7 @@
 
 后续更新可在号内回复“软件”获取最新版本下载地址。
 
-![image](https://mmbiz.qpic.cn/sz_mmbiz_png/NOQ15qESMM3yhvcdOKRE7mUwN6ocoHX2XkUNOYzArkiaicI6pF9xYR5v9uMZqHK3Ez2r6icjdBGn9Zra8ibzm7KQUw/640?wx_fmt=png&amp;from=appmsg)
-
+<img width="1920" height="1033" alt="2" src="https://github.com/user-attachments/assets/ac855fc9-cd88-45e9-a927-6efbfc2f493f" />
 
 
 简单、强大、实用，真正解决痛点。
