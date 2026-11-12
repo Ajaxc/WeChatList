@@ -3,9 +3,9 @@
 ## 这款工具，帮你把微信公众号文章全部保存下来
 
 ##
-
+<p align="center">
 <img width="440" height="300" alt="0" src="https://github.com/user-attachments/assets/38fa23a2-f2c1-4a07-9dda-b6c79e939047" />
-
+</p>
 <img width="1920" height="1033" alt="1" src="https://github.com/user-attachments/assets/d835b8d5-9071-4d5a-aa82-81a081054484" />
 
 
