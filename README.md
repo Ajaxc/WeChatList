@@ -200,9 +200,9 @@
 
 
 
-软件下载地址：[https://mp.weixin.qq.com/s/WtVJFaOAz9ivAJitkGw_dw](https://mp.weixin.qq.com/s/WtVJFaOAz9ivAJitkGw_dw)
+软件介绍：[https://mp.weixin.qq.com/s/WtVJFaOAz9ivAJitkGw_dw](https://mp.weixin.qq.com/s/Z5MDZ7fIYPu-nQhr_K2V4w)
 
-蓝奏云:[https://wwbfc.lanzoue.com/b019vnuo1g](https://wwbfc.lanzoue.com/b019vy4p0b) 密码:66888
+蓝奏云下载地址: [https://wwbfc.lanzoue.com/b019vnuo1g](https://wwbfc.lanzoue.com/b019vy4p0b) 密码:66888
  
 扫码关注公众号:Yi昭
 
